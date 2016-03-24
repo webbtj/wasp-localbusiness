@@ -2,20 +2,20 @@
 
 ### WASP?
 
-*W*ordPress + *A*CF + *S*marty + *P*osts-to-Posts
+**W**ordPress + **A**CF + **S**marty + **P**osts-to-Posts
 
 ### LocalBusiness?
 
 LocalBusiness is a schema.org standard supported by Google and therefore the world.
-This provides a bunch of info about your business to Google, Maps, etc.
+This provides a bunch of info about your business to Google, Maps, etc.  
 More Info: https://developers.google.com/structured-data/local-businesses/  
 Schema.org specifications: http://schema.org/LocalBusiness  
 Testing Tool: https://developers.google.com/structured-data/testing-tool/  
 
 ### Requirements?
 ACF, Smarty, Posts-to-Posts. You also need the ACF repeater field and options panel.
-You also *need* to actually be using Smarty in your theme (Smarty will set it's compile
-directory to what your theme's compile directory _should_ be).
+You also **need** to actually be using Smarty in your theme (Smarty will set it's compile
+directory to what your theme's compile directory *should* be).
 
 ### WP Plugin Directory?
 
