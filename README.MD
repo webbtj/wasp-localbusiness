@@ -17,6 +17,9 @@ ACF, Smarty, Posts-to-Posts. You also need the ACF repeater field and options pa
 You also **need** to actually be using Smarty in your theme (Smarty will set it's compile
 directory to what your theme's compile directory *should* be).
 
+### Defaults?
+The default values can be filtered. See this gist: https://gist.github.com/webbtj/7884b02f512502a23d18
+
 ### WP Plugin Directory?
 
 I dunno, probably not. Kind of sick of being forced into SVN to publish stuff.
